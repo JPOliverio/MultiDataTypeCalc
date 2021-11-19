@@ -13,6 +13,7 @@ There is a combobox beside Value 1, Value 2, and Results with the below options 
 You can mix and match differnt data types for the two value fields and perform addition, subtraction, multiplication, and division.
 The results can be in any of the listed data type formats.
 
+The below video shows an example of how the tool is used.
 
 https://user-images.githubusercontent.com/88540433/142664849-6ab87780-7866-428b-8b40-8669352b38d4.mov
 
