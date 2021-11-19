@@ -13,6 +13,9 @@ There is a combobox beside Value 1, Value 2, and Results with the below options 
 You can mix and match differnt data types for the two value fields and perform addition, subtraction, multiplication, and division.
 The results can be in any of the listed data type formats.
 
+https://im2.ezgif.com/tmp/ezgif-2-f6e9e82bde88.gif![image](https://user-images.githubusercontent.com/88540433/142664754-ae5557e4-8dc7-4dc0-92c4-884a615fa004.png)
+
+
 b) Explanation of Using https://github.com/ksine/math-ops
 
 For this program the library math-ops was used. The library contained all the nessiary infromation to perfrom data converstion and calulations between the various data types described above. The library was not modified and was easy to intergarte into this program. The only issues I had was that the library does not catch calulations divided by zero and that there was no simple way to convert the datatpes to doubles. 
