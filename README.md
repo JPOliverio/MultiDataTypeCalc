@@ -13,4 +13,5 @@ You can mix and match differnt data types for the two value fields and perform a
 The results can be in any of the listed data type formats.
 
 b) Explanation of Using https://github.com/ksine/math-ops
+
 For this program the library math-ops was used. The library contained all the nessiary infromation to perfrom data converstion and calulations between the various data types described above. The library was not modified and was easy to intergarte into this program. The only issues I had was that the library does not catch calulations divided by zero and that there was no simple way to convert the datatpes to doubles. 
