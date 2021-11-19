@@ -1,6 +1,7 @@
 # MultiDataTypeCalc
 
 a) How to use program
+
 This is a simple calculator that can perform calculations on multiple data types. Below is a screen shot of the interface of the calc.
 
 ![image](https://user-images.githubusercontent.com/88540433/142658609-84e3577e-5519-4446-a7fb-8c63d3fd35f7.png)
