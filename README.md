@@ -13,7 +13,10 @@ There is a combobox beside Value 1, Value 2, and Results with the below options 
 You can mix and match differnt data types for the two value fields and perform addition, subtraction, multiplication, and division.
 The results can be in any of the listed data type formats.
 
-https://im2.ezgif.com/tmp/ezgif-2-f6e9e82bde88.gif![image](https://user-images.githubusercontent.com/88540433/142664754-ae5557e4-8dc7-4dc0-92c4-884a615fa004.png)
+
+https://user-images.githubusercontent.com/88540433/142664849-6ab87780-7866-428b-8b40-8669352b38d4.mov
+
+
 
 
 b) Explanation of Using https://github.com/ksine/math-ops
